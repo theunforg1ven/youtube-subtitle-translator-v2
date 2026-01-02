@@ -3,7 +3,7 @@
 
 A powerful browser extension that translates YouTube video captions in real-time. Click on any word to see its translation, or Shift+click to translate entire caption segments.
 
-![Extension Demo]([screens/screen1.png](https://github.com/theunforg1ven/youtube-subtitle-translator-v2/blob/main/screens/1.png))
+![Extension Demo](https://github.com/theunforg1ven/youtube-subtitle-translator-v2/blob/main/screens/1.png)
 
 ---
 
