@@ -94,6 +94,6 @@ A powerful browser extension that translates YouTube video captions in real-time
 
 **⭐ Star this repo if you find it useful! ⭐**
 
-Made with ❤️ by (https://github.com/theunforg1ven)
+Made with ❤️ by [theunforg1ven](https://github.com/theunforg1ven)
 
 </div>
